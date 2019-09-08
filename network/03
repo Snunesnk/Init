@@ -1,0 +1,1 @@
+networksetup -getinfo wi-fi | grep Wi | cut -f3 -d' '

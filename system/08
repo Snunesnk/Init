@@ -1,0 +1,2 @@
+Le fichier qui contient les cle RSA des machines autorisees a se connecter via SSH est : 
+/home/<user>/.ssh/authorized_keys

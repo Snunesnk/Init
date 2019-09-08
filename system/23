@@ -1,0 +1,3 @@
+En session graphique: Il y a juste a deconnecter l'utiisateur actif et a relog un nouvel utilisateur 
+
+En SSH: lancer la commande : "ssh -p 2222 <new_user>@localhost"

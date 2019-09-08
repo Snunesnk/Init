@@ -1,0 +1,3 @@
+Pour faire pointer intra.42.fr sur l'adresse 46.19.122.85, il suffirait 
+d'editer le fichier /etc/hosts, d'y ajouter une ligne commencant  par l'adresse
+voulue puis en face le nom du site que l'on veut rediriger (intra.42.fr ici).

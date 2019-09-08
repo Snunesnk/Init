@@ -1,0 +1,6 @@
+Apres avoir cherche sur internet ce que la question pouvait bien signifier,
+j'ai appris que le path du fichier dans lequel est ecrit l'adresse IP du serveur DNS 
+que l'on utilise (et meme d'autres) est: /etc/resolve.conf
+
+Ce fichier de configuration est un fichier present sur les OS base sur LINUX et UNIX,
+et est utilise pour configurer le nom des serveurs dns.
